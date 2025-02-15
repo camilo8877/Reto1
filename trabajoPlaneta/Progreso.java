@@ -88,17 +88,6 @@ public class Progreso {
 
         scanner.close();
 
-
-
-       
-
-
-
-
-
-
-
-
         
     }
     
